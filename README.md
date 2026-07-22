@@ -1,6 +1,4 @@
-# epochsTask1
-Introduction to Data Science, Recommendation system for online retairing
-## Product Recommendation for Online Retailering System
+# Product Recommendation for Online Retailering System
 ## 1.Dataset Overview
 ### Dataset: Online Retail dataset for two years
 ### Shape:541910 rows, 8 columns
