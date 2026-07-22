@@ -13,9 +13,9 @@ Introduction to Data Science, Recommendation system for online retairing
 ### Justification
 #### The solution is a system that recommends items similar to those a user liked earlier, recommends items based on patterns derived from many users and based on item features provided (price).
 ## 4.Target Variable & Key Features
-### Target Variable:Recommedation
-### Key Predictors:Stock Code, Product Description, Quantity, Coustomer id,Unit price, Country name (geography), Invoice Dates.
+### Target Variable: Recommedation
+### Key Predictors: Stock Code, Product Description, Quantity, Coustomer id,Unit price, Country name (geography), Invoice Dates.
 ## 5.Three Key Observations
 ### 1.Some data sets about item description and coustomer ids were missing.
-2.Cancelled transcations are indicate by a Transaction id starting with 'c'.
-3.Certain Stock codes are not fully in integer format with alphabets like D for discount, M for manual, S for samples, banking charges and many more.
+### 2.Cancelled transcations are indicate by a Transaction id starting with 'c'.
+### 3.Certain Stock codes are not fully in integer format with alphabets like D for discount, M for manual, S for samples, banking charges and many more.
